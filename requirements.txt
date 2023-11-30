@@ -7,3 +7,6 @@ scikit-learn
 seaborn
 catboost
 xgboost
+mlflow
+dagshub
+#-e .

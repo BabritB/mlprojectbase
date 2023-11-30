@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject1/mlruns/0/01f7ce888e1246689847449456c603d2/artifacts
+end_time: 1701328464462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01f7ce888e1246689847449456c603d2
+run_name: luxuriant-koi-90
+run_uuid: 01f7ce888e1246689847449456c603d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701328457945
+status: 3
+tags: []
+user_id: root
